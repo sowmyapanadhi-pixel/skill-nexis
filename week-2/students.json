@@ -1,0 +1,12 @@
+{
+    "student1": {
+        "name": "Sowmya",
+        "roll_number": 101,
+        "marks": 88
+    },
+    "student2": {
+        "name": "Rahul",
+        "roll_number": 102,
+        "marks": 92
+    }
+}
